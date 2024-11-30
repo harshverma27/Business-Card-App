@@ -148,7 +148,7 @@ fun CreateText(modifier: Modifier){
     }
     Divider(thickness = 5.dp, modifier = Modifier.padding(8.dp, 5.dp, 8.dp, 5.dp), color=Color(241, 154, 62))
     Column {
-        Text(text = "B.Tech, NIT Hamirpur", color = Color(222, 239, 183))
+        Text(text = "B.Tech, NIT Hamirpur(H.P.)", color = Color(222, 239, 183))
     }
     Divider(thickness = 5.dp, modifier = Modifier.padding(8.dp, 5.dp, 8.dp, 5.dp), color=Color(241, 154, 62))
     Column {
